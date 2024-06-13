@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sakthivel-py
 - 😄 A passionate Software developer from India
 - 🔭 I’m currently Finished MCA
-- 🤝 I’m looking for help with to seeking an opportunity to kichstarta rewarding career in software sevelopment
+- 🤝 I’m looking for help with to seeking an opportunity to kichstart rewarding career in software sevelopment
 - 👀 I’m interested in the software development 
 - 🌱 I’m currently learning the courses of Java and Python 
 - 📫 How to reach me kavikumar10793@gmail.com
